@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>crea_infantil</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260611221739AYA1PV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606112217397CI26P</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>El latido de mi ciudad</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA para alumnado de 2º ciclo de Educación Infantil</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Andrea Guerrero Cuesta</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta situación de aprendizaje trata sobre la ciudad y sus componentes: edificios, tiendas, educación vial, transportes, profesiones...Tiene como producto final la elaboración de un álbum digital que recoja todos estos aspectos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>crea_infantil</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781208974676</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq9teza8-0bh6l9ucj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bienvenida</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9teza8-0bh6l9ucj</odePageId>
+      <odeBlockId>block-1780951406698-eww12uwd1</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9teza8-0bh6l9ucj</odePageId>
+          <odeBlockId>block-1780951406698-eww12uwd1</odeBlockId>
+          <odeIdeviceId>idevice-1780951406696-85uhfchrj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #f8cac6;"><strong>¡Bienvenidos!</strong></span></p>
+<p>Vamos a descubrir nuestra ciudad, sus edificios, profesiones, medios de transporte y normas de educación vial a través de actividades divertidas y herramientas digitales.</p>
+<figure class="exe-figure position-center" style="width: 300px;"><img src="{{context_path}}/content/resources/ChatGPT Image 8 jun 2026, 22_39_14.png" title="El latido de mi ciudad" width="300" height="200" alt="" />
+<figcaption class="figcaption"><span class="author">Chat GPT</span>. <span class="title"><em>El latido de mi ciudad</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><span style="color: #f8cac6;"><strong>¿Qué vamos a hacer?</strong></span><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;">📸 Fotografías</p>
+<p style="text-align: center;">🎤 Audios</p>
+<p style="text-align: center;">🎥 Vídeos</p>
+<p style="text-align: center;">📱 Códigos QR</p>
+<p style="text-align: center;">📖 Álbum digital</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780951406696-85uhfchrj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #f8cac6;\"><strong>¡Bienvenidos!</strong></span></p>\n<p>Vamos a descubrir nuestra ciudad, sus edificios, profesiones, medios de transporte y normas de educación vial a través de actividades divertidas y herramientas digitales.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 8 jun 2026, 22_39_14.png\" title=\"El latido de mi ciudad\" width=\"300\" height=\"200\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Chat GPT</span>. <span class=\"title\"><em>El latido de mi ciudad</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><span style=\"color: #f8cac6;\"><strong>¿Qué vamos a hacer?</strong></span><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\">📸 Fotografías</p>\n<p style=\"text-align: center;\">🎤 Audios</p>\n<p style=\"text-align: center;\">🎥 Vídeos</p>\n<p style=\"text-align: center;\">📱 Códigos QR</p>\n<p style=\"text-align: center;\">📖 Álbum digital</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezab-aenl2j04k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nuestro proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezab-aenl2j04k</odePageId>
+      <odeBlockId>block-1780952188627-zbdvrackj</odeBlockId>
+      <blockName>¿De qué trata esta SdA?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezab-aenl2j04k</odePageId>
+          <odeBlockId>block-1780952188627-zbdvrackj</odeBlockId>
+          <odeIdeviceId>idevice-1780952188625-bhy48nvti</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #f8cac6;"><strong>Centro de interés</strong></span><br /></p>
+<p style="text-align: center;">La ciudad.</p>
+<p style="text-align: center;"><span style="color: #f8cac6;"><strong>Nivel</strong></span><br /></p>
+<p style="text-align: center;">Aula TEA con nivel de segundo ciclo de Educación Infantil.</p>
+<p style="text-align: center;"><span style="color: #f8cac6;"><strong>Temporalización</strong></span></p>
+<p style="text-align: center;">4/5 semanas.</p>
+<p style="text-align: center;"><span style="color: #f8cac6;"><strong>Áreas</strong></span></p>
+<p style="text-align: center;">Descubrimiento y exploración del entorno.<br />Comunicación y representación de la realidad.<br />Crecimiento en armonía.</p>
+<p style="text-align: center;"><span style="color: #f8cac6;"><strong>Producto final</strong></span></p>
+<figure class="exe-figure position-center" style="width: 300px;"><span style="color: #000000;">Álbum digital: "Recuerdos de mi ciudad"</span></figure>
+<figure class="exe-figure position-center" style="width: 300px;"><img src="{{context_path}}/content/resources/nasilzang-city-1252643_1920.png" title="ciudad" width="300" height="150" alt="" />
+<figcaption class="figcaption"><a href="nasilzang" class="author" target="_blank" rel="noopener">nasilzang</a>. <span class="title"><em>ciudad</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BB)</a></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780952188625-bhy48nvti","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #f8cac6;\"><strong>Centro de interés</strong></span><br /></p>\n<p style=\"text-align: center;\">La ciudad.</p>\n<p style=\"text-align: center;\"><span style=\"color: #f8cac6;\"><strong>Nivel</strong></span><br /></p>\n<p style=\"text-align: center;\">Aula TEA con nivel de segundo ciclo de Educación Infantil.</p>\n<p style=\"text-align: center;\"><span style=\"color: #f8cac6;\"><strong>Temporalización</strong></span></p>\n<p style=\"text-align: center;\">4/5 semanas.</p>\n<p style=\"text-align: center;\"><span style=\"color: #f8cac6;\"><strong>Áreas</strong></span></p>\n<p style=\"text-align: center;\">Descubrimiento y exploración del entorno.<br />Comunicación y representación de la realidad.<br />Crecimiento en armonía.</p>\n<p style=\"text-align: center;\"><span style=\"color: #f8cac6;\"><strong>Producto final</strong></span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 300px;\"><span style=\"color: #000000;\">Álbum digital: \"Recuerdos de mi ciudad\"</span></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/nasilzang-city-1252643_1920.png\" title=\"ciudad\" width=\"300\" height=\"150\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"nasilzang\" class=\"author\" target=\"_blank\" rel=\"noopener\">nasilzang</a>. <span class=\"title\"><em>ciudad</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BB)</a></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezac-hi64yzlgn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Navegamos seguros</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Navegamos seguros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Navegamos seguros</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezac-hi64yzlgn</odePageId>
+      <odeBlockId>block-1781206192614-tti7uw1xx</odeBlockId>
+      <blockName>¿Cómo navegar seguros por Internet?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezac-hi64yzlgn</odePageId>
+          <odeBlockId>block-1781206192614-tti7uw1xx</odeBlockId>
+          <odeIdeviceId>idevice-1781206192613-ml4czkatj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para ello, es recomendable cumplir las normas presentes en la siguiente <a href="https://canva.link/navegar-seguros" title=""><strong>infografía</strong></a>:</p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Infografía_Normas para movernos seguros en el mundo digital.jpg" title="Infografía navegar seguros" width="800" height="2000" alt="" />
+<figcaption class="figcaption"><span class="author">Andrea Guerrero Cuesta</span>. <span class="title"><em>Infografía navegar seguros</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781206192613-ml4czkatj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para ello, es recomendable cumplir las normas presentes en la siguiente <a href=\"https://canva.link/navegar-seguros\" title=\"\"><strong>infografía</strong></a>:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Infografía_Normas para movernos seguros en el mundo digital.jpg\" title=\"Infografía navegar seguros\" width=\"800\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Andrea Guerrero Cuesta</span>. <span class=\"title\"><em>Infografía navegar seguros</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9tezac-hi64yzlgn</odePageId>
+      <odeBlockId>block-1780952981120-2i3sz4ps7</odeBlockId>
+      <blockName>RECUERDA:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezac-hi64yzlgn</odePageId>
+          <odeBlockId>block-1780952981120-2i3sz4ps7</odeBlockId>
+          <odeIdeviceId>idevice-1780952981117-4li9lyub1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>✅ Pedimos permiso para hacer fotos.</p>
+<p>✅ Cuidamos los dispositivos.</p>
+<p>✅ No compartimos datos personales.</p>
+<p>✅ Respetamos a los demás.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780952981117-4li9lyub1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>✅ Pedimos permiso para hacer fotos.</p>\n<p>✅ Cuidamos los dispositivos.</p>\n<p>✅ No compartimos datos personales.</p>\n<p>✅ Respetamos a los demás.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezad-pecef6egl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para aprender</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para aprender</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para aprender</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezad-pecef6egl</odePageId>
+      <odeBlockId>block-1781037226588-1dgweekkw</odeBlockId>
+      <blockName>Haz clic para descubrir los diferentes recursos necesarios para nuestro producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezad-pecef6egl</odePageId>
+          <odeBlockId>block-1781037226588-1dgweekkw</odeBlockId>
+          <odeIdeviceId>idevice-1781037226584-pn2rxq9qn</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/andreaguerrerocuesta92/el-latido-de-mi-ciudad-z10ptf27jevw5ot3" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781201924414-drbqu9mk6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para enseñar</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para enseñar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781201924414-drbqu9mk6</odePageId>
+      <odeBlockId>block-1781201953704-rnxfj7hiw</odeBlockId>
+      <blockName>Haz clic para descubrir herramientas digitales para gestionar tu aula como docente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781201924414-drbqu9mk6</odePageId>
+          <odeBlockId>block-1781201953704-rnxfj7hiw</odeBlockId>
+          <odeIdeviceId>idevice-1781201953702-2i5sa7tcr</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://wakelet.com/wake/Sh2LLqL5JoxitwjBzGCek" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezad-ppz00qqh1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nuestro recorrido</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro recorrido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro recorrido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezad-ppz00qqh1</odePageId>
+      <odeBlockId>block-1781204576321-tik21mu7e</odeBlockId>
+      <blockName>Nuestra línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezad-ppz00qqh1</odePageId>
+          <odeBlockId>block-1781204576321-tik21mu7e</odeBlockId>
+          <odeIdeviceId>idevice-1781204576320-5rjvqys11</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para llegar hasta nuestro producto final, es decir, el álbum "Recuerdos de la ciudad", debemos seguir el siguiente <strong><span style="color: #f8cac6;">recorrido</span></strong>, yendo paso a paso y aprendiendo por el camino:</p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Línea temporal El latido de mi ciudad.jpg" title="Línea temporal" width="800" height="565" alt="Línea temporal" />
+<figcaption class="figcaption"><span class="author">Andrea Guerrero Cuesta</span>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781204576320-5rjvqys11","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para llegar hasta nuestro producto final, es decir, el álbum \"Recuerdos de la ciudad\", debemos seguir el siguiente <strong><span style=\"color: #f8cac6;\">recorrido</span></strong>, yendo paso a paso y aprendiendo por el camino:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Línea temporal El latido de mi ciudad.jpg\" title=\"Línea temporal\" width=\"800\" height=\"565\" alt=\"Línea temporal\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Andrea Guerrero Cuesta</span>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9tezad-ppz00qqh1</odePageId>
+      <odeBlockId>block-1781038161238-n35bj2rum</odeBlockId>
+      <blockName>PONTE A PRUEBA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezad-ppz00qqh1</odePageId>
+          <odeBlockId>block-1781038161238-n35bj2rum</odeBlockId>
+          <odeIdeviceId>idevice-1781038161237-4hgdee245</odeIdeviceId>
+          <odeIdeviceTypeName>scrambled-list</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-sortableList" id="slidevice-1781038161237-4hgdee245" scorm=false>
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1781038161237-4hgdee245" data-evaluationb="false" data-evaluationid="66d87aba-f576-46f9-98de-4061ad1b5017"></div>
+    <div class="exe-sortableList-instructions"><p>Ahora, ¡coloca cada tarea en su orden!</p></div>
+    <ul class="exe-sortableList-list"><li>DESCUBRIR LA CIUDAD</li><li>NOS MOVEMOS POR LA CIUDAD</li><li>APRENDEMOS EDUCACIÓN VIAL</li><li>DESCUBRIMOS PROFESIONES</li><li>FOTOGRAFIAMOS LA CIUDAD</li><li>ELABORAMOS NUESTRO ÁLBUM</li></ul>
+    <div style="display:none">
+        <p class="exe-sortableList-buttonText">Comprobar</p>
+        <p class="exe-sortableList-rightText">¡Correcto!</p>
+        <p class="exe-sortableList-wrongText">No es correcto... La respuesta correcta es:</p>
+    </div>
+    <div class="exe-scorm-message"></div>
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"ScrambledList","instructions":"<p>Ahora, ¡coloca cada tarea en su orden!</p>","textAfter":"","afterElement":"","options":["DESCUBRIR LA CIUDAD","NOS MOVEMOS POR LA CIUDAD","APRENDEMOS EDUCACIÓN VIAL","DESCUBRIMOS PROFESIONES","FOTOGRAFIAMOS LA CIUDAD","ELABORAMOS NUESTRO ÁLBUM"],"time":0,"buttonText":"Comprobar","rightText":"¡Correcto!","wrongText":"No es correcto... La respuesta correcta es:","isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"66d87aba-f576-46f9-98de-4061ad1b5017","main":"slidevice-1781038161237-4hgdee245","msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Su puntuación","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Lista desordenada","msgStartGame":"Pulsa aquí para empezar","msgSubmit":"Enviar","msgPlayStart":"Pulsa aquí para jugar","msgTime":"Tiempo por pregunta","msgCheck":"Comprobar","msgSaveScore":"Guardar la puntuación","msgTestFailed":"No has superado la prueba. Inténtalo de nuevo","msgRetryAttempts":"Has cometido %s errores. Te quedan %s intentos. ¿Quieres intentarlo de nuevo?"},"scorerp":0,"idevice":"idevice_node","showSolutions":true,"attemptsNumber":1,"id":"idevice-1781038161237-4hgdee245"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezae-h6hfjsjdf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezae-h6hfjsjdf</odePageId>
+      <odeBlockId>block-1781038454731-u8qt1wcys</odeBlockId>
+      <blockName>Álbum digital: Recuerdos de mi ciudad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezae-h6hfjsjdf</odePageId>
+          <odeBlockId>block-1781038454731-u8qt1wcys</odeBlockId>
+          <odeIdeviceId>idevice-1781038454728-ozankdq3o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 300px;"><img src="{{context_path}}/content/resources/clker-free-vector-images-photography-297841_1920.png" title="Fotografías" width="300" height="266" alt="fotografías" />
+<figcaption class="figcaption"><span class="author">Clker-Free-Vector-Image</span>. <span class="title"><em>Fotografías</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Después de aprender todo sobre la ciudad, de visitar nuestro entorno y realizar fotografías y vídeos, nos toca colocar todo en un <strong><span style="color: #f8cac6;">álbum</span></strong>, usando la página web "<a href="https://bookcreator.com/" title="">Book Creator</a>". Os dejo una serie de <a href="https://www.youtube.com/playlist?list=PL-50N2LhNQCULUaJ25ot3K5XlrT48OZea"><strong>tutoriales</strong></a> para facilitar la tarea de su uso adecuado.<br /></p>
+<p>Aquí pondremos las diferentes<span style="color: #f8cac6;"><strong> fotografías</strong></span> por categorías:</p>
+<p style="text-align: center;">-Edificios importantes de nuestra ciudad.</p>
+<p style="text-align: center;">-Tiendas y comercios con sus profesiones asociadas.</p>
+<p style="text-align: center;">-Señales y normas de educación vial.</p>
+<p style="text-align: center;">-Transportes.</p>
+<p>Además, añadiremos <strong><span style="color: #f8cac6;">códigos QR</span></strong> con enlaces a audios y vídeos que realicemos de nuestra ciudad, utilizando la plataforma <a href="https://www.qrcode-monkey.com/es/" title="">QRCODE MONKEY</a></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781038454728-ozankdq3o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/clker-free-vector-images-photography-297841_1920.png\" title=\"Fotografías\" width=\"300\" height=\"266\" alt=\"fotografías\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Clker-Free-Vector-Image</span>. <span class=\"title\"><em>Fotografías</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Después de aprender todo sobre la ciudad, de visitar nuestro entorno y realizar fotografías y vídeos, nos toca colocar todo en un <strong><span style=\"color: #f8cac6;\">álbum</span></strong>, usando la página web \"<a href=\"https://bookcreator.com/\" title=\"\">Book Creator</a>\". Os dejo una serie de <a href=\"https://www.youtube.com/playlist?list=PL-50N2LhNQCULUaJ25ot3K5XlrT48OZea\"><strong>tutoriales</strong></a> para facilitar la tarea de su uso adecuado.<br /></p>\n<p>Aquí pondremos las diferentes<span style=\"color: #f8cac6;\"><strong> fotografías</strong></span> por categorías:</p>\n<p style=\"text-align: center;\">-Edificios importantes de nuestra ciudad.</p>\n<p style=\"text-align: center;\">-Tiendas y comercios con sus profesiones asociadas.</p>\n<p style=\"text-align: center;\">-Señales y normas de educación vial.</p>\n<p style=\"text-align: center;\">-Transportes.</p>\n<p>Además, añadiremos <strong><span style=\"color: #f8cac6;\">códigos QR</span></strong> con enlaces a audios y vídeos que realicemos de nuestra ciudad, utilizando la plataforma <a href=\"https://www.qrcode-monkey.com/es/\" title=\"\">QRCODE MONKEY</a></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezah-p4qqlx2nz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezah-p4qqlx2nz</odePageId>
+      <odeBlockId>block-1781124110297-0sxjtkxu1</odeBlockId>
+      <blockName>Asociación tarea-criterio</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezah-p4qqlx2nz</odePageId>
+          <odeBlockId>block-1781124110297-0sxjtkxu1</odeBlockId>
+          <odeIdeviceId>idevice-1781124110294-vpmrzoqhh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 99.9769%; height: 1903.2px; border-color: #c2e0f4; border-style: solid;">
+<tbody>
+<tr style="border-color: #c2e0f4; height: 80.8px;">
+<td style="width: 19.9856%; background-color: #f8cac6; height: 80.8px;"><span style="color: #000000; background-color: #f8cac6;"><strong>TAREA </strong></span></td>
+<td style="width: 19.9856%; background-color: #f8cac6; height: 80.8px;"><span style="color: #000000; background-color: #f8cac6;"><strong>CRITERIO DE EVALUACIÓN (2º ciclo E.I.)</strong></span></td>
+<td style="width: 19.9856%; background-color: #f8cac6; height: 80.8px;"><span style="color: #000000; background-color: #f8cac6;"><strong>AGRUPAMIENTO</strong></span></td>
+<td style="width: 19.9856%; background-color: #f8cac6; height: 80.8px;"><span style="color: #000000; background-color: #f8cac6;"><strong>TIEMPO APROXIMADO</strong></span></td>
+<td style="width: 19.9885%; background-color: #f8cac6; height: 80.8px;"><span style="color: #000000; background-color: #f8cac6;"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></span><br /></td>
+</tr>
+<tr style="height: 152.8px;">
+<td style="width: 19.9856%; height: 152.8px;">Exploramos imágenes y videos sobre la ciudad y sus elementos</td>
+<td style="width: 19.9856%; height: 152.8px;">Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés. </td>
+<td style="width: 19.9856%; height: 152.8px;">Gran grupo</td>
+<td style="width: 19.9856%; height: 152.8px;">1 sesión</td>
+<td style="width: 19.9885%; height: 152.8px;">Panel digital, Youtube, pictogramas ARASAAC</td>
+</tr>
+<tr style="height: 224.8px;">
+<td style="width: 19.9856%; height: 224.8px;">Clasificamos medios de transporte y aprendemos sus características</td>
+<td style="width: 19.9856%; height: 224.8px;">Emplear los cuantificadores básicos más significativos en el contexto del juego, la vida cotidiana y en la interacción con los demás en diferentes contextos.</td>
+<td style="width: 19.9856%; height: 224.8px;">Pequeño grupo</td>
+<td style="width: 19.9856%; height: 224.8px;">2 sesiones</td>
+<td style="width: 19.9885%; height: 224.8px;">Youtube, pictogramas ARASAAC, Wordwall, tablet</td>
+</tr>
+<tr style="height: 152.8px;">
+<td style="width: 19.9856%; height: 152.8px;">Aprendemos normas básicas de educación vial mediante juegos interactivos</td>
+<td style="width: 19.9856%; height: 152.8px;">Respetar la diversidad cultural, adecuando la conducta en base a valores y normas de convivencia democráticas.</td>
+<td style="width: 19.9856%; height: 152.8px;">Gran grupo</td>
+<td style="width: 19.9856%; height: 152.8px;">2 sesiones</td>
+<td style="width: 19.9885%; height: 152.8px;">Youtube, pictogramas ARASAAC, Genially, panel digital</td>
+</tr>
+<tr style="height: 272.8px;">
+<td style="width: 19.9856%; height: 272.8px;">Asociamos profesiones con entorno o edificio donde se llevan a cabo y sus herramientas</td>
+<td style="width: 19.9856%; height: 272.8px;">Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés, explorando sus características, comportamiento físico y funcionamiento. </td>
+<td style="width: 19.9856%; height: 272.8px;">Pequeño grupo</td>
+<td style="width: 19.9856%; height: 272.8px;">2 sesiones</td>
+<td style="width: 19.9885%; height: 272.8px;">Youtube, pictogramas ARASAAC, Wordwall, tablet</td>
+</tr>
+<tr style="height: 200.8px;">
+<td style="width: 19.9856%; height: 200.8px;">Realizamos fotografías de elementos de nuestra ciudad</td>
+<td style="width: 19.9856%; height: 200.8px;">Expresarse de manera creativa, utilizando diversas herramientas o aplicaciones digitales intuitivas y visuales para expresarse de manera creativa.</td>
+<td style="width: 19.9856%; height: 200.8px;">Individual/ Parejas</td>
+<td style="width: 19.9856%; height: 200.8px;">2 sesiones</td>
+<td style="width: 19.9885%; height: 200.8px;">tablet</td>
+</tr>
+<tr style="height: 320.8px;">
+<td style="width: 19.9856%; height: 320.8px;">Grabamos vídeos y audios de nuestra ciudad</td>
+<td style="width: 19.9856%; height: 320.8px;">Utilizar las posibilidades expresivas de los diferentes lenguajes, ajustando su repertorio comunicativo a las propuestas, a los interlocutores y al contexto, indagando en las posibilidades expresivas de los diferentes lenguajes.</td>
+<td style="width: 19.9856%; height: 320.8px;">Individual/ Parejas</td>
+<td style="width: 19.9856%; height: 320.8px;">2 sesiones</td>
+<td style="width: 19.9885%; height: 320.8px;">tablet</td>
+</tr>
+<tr style="height: 176.8px;">
+<td style="width: 19.9856%; height: 176.8px;">Creamos códigos QR para enlazar los vídeos y audios grabados</td>
+<td style="width: 19.9856%; height: 176.8px;">Interactuar de manera virtual, familiarizándose con el uso de diferentes medios y herramientas digitales.</td>
+<td style="width: 19.9856%; height: 176.8px;">Individual/ Parejas</td>
+<td style="width: 19.9856%; height: 176.8px;">1 sesión</td>
+<td style="width: 19.9885%; height: 176.8px;">QR code monkey<br /></td>
+</tr>
+<tr style="height: 320.8px;">
+<td style="width: 19.9856%; height: 320.8px;">Elaboramos el álbum de nuestra ciudad con toda la información recogida</td>
+<td style="width: 19.9856%; height: 320.8px;">Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas o en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.</td>
+<td style="width: 19.9856%; height: 320.8px;">Gran grupo guiado</td>
+<td style="width: 19.9856%; height: 320.8px;">3 sesiones</td>
+<td style="width: 19.9885%; height: 320.8px;">Book Creator</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781124110294-vpmrzoqhh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 99.9769%; height: 1903.2px; border-color: #c2e0f4; border-style: solid;\">\n<tbody>\n<tr style=\"border-color: #c2e0f4; height: 80.8px;\">\n<td style=\"width: 19.9856%; background-color: #f8cac6; height: 80.8px;\"><span style=\"color: #000000; background-color: #f8cac6;\"><strong>TAREA </strong></span></td>\n<td style=\"width: 19.9856%; background-color: #f8cac6; height: 80.8px;\"><span style=\"color: #000000; background-color: #f8cac6;\"><strong>CRITERIO DE EVALUACIÓN (2º ciclo E.I.)</strong></span></td>\n<td style=\"width: 19.9856%; background-color: #f8cac6; height: 80.8px;\"><span style=\"color: #000000; background-color: #f8cac6;\"><strong>AGRUPAMIENTO</strong></span></td>\n<td style=\"width: 19.9856%; background-color: #f8cac6; height: 80.8px;\"><span style=\"color: #000000; background-color: #f8cac6;\"><strong>TIEMPO APROXIMADO</strong></span></td>\n<td style=\"width: 19.9885%; background-color: #f8cac6; height: 80.8px;\"><span style=\"color: #000000; background-color: #f8cac6;\"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></span><br /></td>\n</tr>\n<tr style=\"height: 152.8px;\">\n<td style=\"width: 19.9856%; height: 152.8px;\">Exploramos imágenes y videos sobre la ciudad y sus elementos</td>\n<td style=\"width: 19.9856%; height: 152.8px;\">Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés. </td>\n<td style=\"width: 19.9856%; height: 152.8px;\">Gran grupo</td>\n<td style=\"width: 19.9856%; height: 152.8px;\">1 sesión</td>\n<td style=\"width: 19.9885%; height: 152.8px;\">Panel digital, Youtube, pictogramas ARASAAC</td>\n</tr>\n<tr style=\"height: 224.8px;\">\n<td style=\"width: 19.9856%; height: 224.8px;\">Clasificamos medios de transporte y aprendemos sus características</td>\n<td style=\"width: 19.9856%; height: 224.8px;\">Emplear los cuantificadores básicos más significativos en el contexto del juego, la vida cotidiana y en la interacción con los demás en diferentes contextos.</td>\n<td style=\"width: 19.9856%; height: 224.8px;\">Pequeño grupo</td>\n<td style=\"width: 19.9856%; height: 224.8px;\">2 sesiones</td>\n<td style=\"width: 19.9885%; height: 224.8px;\">Youtube, pictogramas ARASAAC, Wordwall, tablet</td>\n</tr>\n<tr style=\"height: 152.8px;\">\n<td style=\"width: 19.9856%; height: 152.8px;\">Aprendemos normas básicas de educación vial mediante juegos interactivos</td>\n<td style=\"width: 19.9856%; height: 152.8px;\">Respetar la diversidad cultural, adecuando la conducta en base a valores y normas de convivencia democráticas.</td>\n<td style=\"width: 19.9856%; height: 152.8px;\">Gran grupo</td>\n<td style=\"width: 19.9856%; height: 152.8px;\">2 sesiones</td>\n<td style=\"width: 19.9885%; height: 152.8px;\">Youtube, pictogramas ARASAAC, Genially, panel digital</td>\n</tr>\n<tr style=\"height: 272.8px;\">\n<td style=\"width: 19.9856%; height: 272.8px;\">Asociamos profesiones con entorno o edificio donde se llevan a cabo y sus herramientas</td>\n<td style=\"width: 19.9856%; height: 272.8px;\">Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés, explorando sus características, comportamiento físico y funcionamiento. </td>\n<td style=\"width: 19.9856%; height: 272.8px;\">Pequeño grupo</td>\n<td style=\"width: 19.9856%; height: 272.8px;\">2 sesiones</td>\n<td style=\"width: 19.9885%; height: 272.8px;\">Youtube, pictogramas ARASAAC, Wordwall, tablet</td>\n</tr>\n<tr style=\"height: 200.8px;\">\n<td style=\"width: 19.9856%; height: 200.8px;\">Realizamos fotografías de elementos de nuestra ciudad</td>\n<td style=\"width: 19.9856%; height: 200.8px;\">Expresarse de manera creativa, utilizando diversas herramientas o aplicaciones digitales intuitivas y visuales para expresarse de manera creativa.</td>\n<td style=\"width: 19.9856%; height: 200.8px;\">Individual/ Parejas</td>\n<td style=\"width: 19.9856%; height: 200.8px;\">2 sesiones</td>\n<td style=\"width: 19.9885%; height: 200.8px;\">tablet</td>\n</tr>\n<tr style=\"height: 320.8px;\">\n<td style=\"width: 19.9856%; height: 320.8px;\">Grabamos vídeos y audios de nuestra ciudad</td>\n<td style=\"width: 19.9856%; height: 320.8px;\">Utilizar las posibilidades expresivas de los diferentes lenguajes, ajustando su repertorio comunicativo a las propuestas, a los interlocutores y al contexto, indagando en las posibilidades expresivas de los diferentes lenguajes.</td>\n<td style=\"width: 19.9856%; height: 320.8px;\">Individual/ Parejas</td>\n<td style=\"width: 19.9856%; height: 320.8px;\">2 sesiones</td>\n<td style=\"width: 19.9885%; height: 320.8px;\">tablet</td>\n</tr>\n<tr style=\"height: 176.8px;\">\n<td style=\"width: 19.9856%; height: 176.8px;\">Creamos códigos QR para enlazar los vídeos y audios grabados</td>\n<td style=\"width: 19.9856%; height: 176.8px;\">Interactuar de manera virtual, familiarizándose con el uso de diferentes medios y herramientas digitales.</td>\n<td style=\"width: 19.9856%; height: 176.8px;\">Individual/ Parejas</td>\n<td style=\"width: 19.9856%; height: 176.8px;\">1 sesión</td>\n<td style=\"width: 19.9885%; height: 176.8px;\">QR code monkey<br /></td>\n</tr>\n<tr style=\"height: 320.8px;\">\n<td style=\"width: 19.9856%; height: 320.8px;\">Elaboramos el álbum de nuestra ciudad con toda la información recogida</td>\n<td style=\"width: 19.9856%; height: 320.8px;\">Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas o en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.</td>\n<td style=\"width: 19.9856%; height: 320.8px;\">Gran grupo guiado</td>\n<td style=\"width: 19.9856%; height: 320.8px;\">3 sesiones</td>\n<td style=\"width: 19.9885%; height: 320.8px;\">Book Creator</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9tezah-p4qqlx2nz</odePageId>
+      <odeBlockId>block-1781125361296-j7nt1bj73</odeBlockId>
+      <blockName>Metodología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezah-p4qqlx2nz</odePageId>
+          <odeBlockId>block-1781125361296-j7nt1bj73</odeBlockId>
+          <odeIdeviceId>idevice-1781125361292-ulvfdnl4n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Aprendizaje basado en proyectos.</li>
+<li>Aprendizaje cooperativo.</li>
+<li>Uso de tecnologías digitales.</li>
+<li>DUA.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781125361292-ulvfdnl4n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Aprendizaje basado en proyectos.</li>\n<li>Aprendizaje cooperativo.</li>\n<li>Uso de tecnologías digitales.</li>\n<li>DUA.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9tezah-p4qqlx2nz</odePageId>
+      <odeBlockId>block-1781125414598-ca9ijc5ax</odeBlockId>
+      <blockName>Atención a la diversidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezah-p4qqlx2nz</odePageId>
+          <odeBlockId>block-1781125414598-ca9ijc5ax</odeBlockId>
+          <odeIdeviceId>idevice-1781125414595-v71y19xyd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Pictogramas.</li>
+<li>Apoyos visuales.</li>
+<li>Adaptaciones TEA.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781125414595-v71y19xyd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Pictogramas.</li>\n<li>Apoyos visuales.</li>\n<li>Adaptaciones TEA.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezaf-jrbs0bcfq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Cómo nos evaluamos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cómo nos evaluamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cómo nos evaluamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezaf-jrbs0bcfq</odePageId>
+      <odeBlockId>block-1781206612049-hjqvwoa8g</odeBlockId>
+      <blockName>Evaluación de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezaf-jrbs0bcfq</odePageId>
+          <odeBlockId>block-1781206612049-hjqvwoa8g</odeBlockId>
+          <odeIdeviceId>idevice-1781206612048-rubn1mlt6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;">Vamos a utilizar para ello diferentes <strong title=""><span style="color: #f8cac6;">instrumentos</span></strong>, que se pueden observar en los próximos sub bloques. A continuación dejo el enlace al documento elaborado en <a href="https://canva.link/9t66pzf75g8bzz7"><strong>Canva</strong></a> con toda la información.</p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/ChatGPT Image 9 jun 2026, 23_06_11.png" title="Evaluación de la sda" width="800" height="533" alt="" />
+<figcaption class="figcaption"><span class="author">Chat GPT</span>. <span class="title"><em>Evaluación de la sda</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781206612048-rubn1mlt6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\">Vamos a utilizar para ello diferentes <strong title=\"\"><span style=\"color: #f8cac6;\">instrumentos</span></strong>, que se pueden observar en los próximos sub bloques. A continuación dejo el enlace al documento elaborado en <a href=\"https://canva.link/9t66pzf75g8bzz7\"><strong>Canva</strong></a> con toda la información.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 9 jun 2026, 23_06_11.png\" title=\"Evaluación de la sda\" width=\"800\" height=\"533\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Chat GPT</span>. <span class=\"title\"><em>Evaluación de la sda</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezaf-1r8etr15f</odePageId>
+  <odeParentPageId>page-mq9tezaf-jrbs0bcfq</odeParentPageId>
+  <pageName>Lista de cotejo</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezaf-1r8etr15f</odePageId>
+      <odeBlockId>block-1781207016802-wfbhp4d3x</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezaf-1r8etr15f</odePageId>
+          <odeBlockId>block-1781207016802-wfbhp4d3x</odeBlockId>
+          <odeIdeviceId>idevice-1781207016801-z2peslb03</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/ChatGPT Image 9 jun 2026, 23_11_35.png" title="Lista de cotejo" width="800" height="533" alt="" />
+<figcaption class="figcaption"><a href="Chat GPT" class="author" target="_blank" rel="noopener">Chat GPT</a>. <span class="title"><em>Lista de cotejo</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781207016801-z2peslb03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 9 jun 2026, 23_11_35.png\" title=\"Lista de cotejo\" width=\"800\" height=\"533\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"Chat GPT\" class=\"author\" target=\"_blank\" rel=\"noopener\">Chat GPT</a>. <span class=\"title\"><em>Lista de cotejo</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9tezaf-1r8etr15f</odePageId>
+      <odeBlockId>block-1781039308630-o4ig4zlgw</odeBlockId>
+      <blockName>¿Qué evalúa?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezaf-1r8etr15f</odePageId>
+          <odeBlockId>block-1781039308630-o4ig4zlgw</odeBlockId>
+          <odeIdeviceId>idevice-1781039308625-efh34u052</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Participación en las actividades propuestas.</li>
+<li>Identificación de elementos de la ciudad.</li>
+<li>Reconocimiento de medios de transporte.</li>
+<li>Asociación de profesiones con edificios y herramientas.</li>
+<li>Cumplimiento de normas básicas de educación vial.<br /></li>
+<li>Uso guiado y responsable de recursos digitales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781039308625-efh34u052","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Participación en las actividades propuestas.</li>\n<li>Identificación de elementos de la ciudad.</li>\n<li>Reconocimiento de medios de transporte.</li>\n<li>Asociación de profesiones con edificios y herramientas.</li>\n<li>Cumplimiento de normas básicas de educación vial.<br /></li>\n<li>Uso guiado y responsable de recursos digitales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezag-5con3fj2t</odePageId>
+  <odeParentPageId>page-mq9tezaf-jrbs0bcfq</odeParentPageId>
+  <pageName>Rúbrica visual</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica visual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica visual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezag-5con3fj2t</odePageId>
+      <odeBlockId>block-1781207112258-50vs7cqqp</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezag-5con3fj2t</odePageId>
+          <odeBlockId>block-1781207112258-50vs7cqqp</odeBlockId>
+          <odeIdeviceId>idevice-1781207112257-x5lbi0uap</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Evaluación SdA_El latido de mi ciudad.png" title="Rúbrica" width="800" height="583" alt="" />
+<figcaption class="figcaption"><span class="author">Andrea Guerrero Cuesta</span>. <span class="title"><em>Rúbrica</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781207112257-x5lbi0uap","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Evaluación SdA_El latido de mi ciudad.png\" title=\"Rúbrica\" width=\"800\" height=\"583\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Andrea Guerrero Cuesta</span>. <span class=\"title\"><em>Rúbrica</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9tezag-5con3fj2t</odePageId>
+      <odeBlockId>block-1781039843698-j0qmh4xny</odeBlockId>
+      <blockName>¿Qué evalúa?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezag-5con3fj2t</odePageId>
+          <odeBlockId>block-1781039843698-j0qmh4xny</odeBlockId>
+          <odeIdeviceId>idevice-1781039843697-norx0lenb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Participación en la elaboración del álbum "Recuerdos de mi ciudad".</li>
+<li>Implicación en la toma de fotografías.</li>
+<li>Participación en la grabación de audios y vídeos.</li>
+<li>Reconocimiento de elementos trabajados durante la SdA.</li>
+<li>Colaboración con compañeros y compañeras.</li>
+<li>Uso funcional de las herramientas digitales.<br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781039843697-norx0lenb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Participación en la elaboración del álbum \"Recuerdos de mi ciudad\".</li>\n<li>Implicación en la toma de fotografías.</li>\n<li>Participación en la grabación de audios y vídeos.</li>\n<li>Reconocimiento de elementos trabajados durante la SdA.</li>\n<li>Colaboración con compañeros y compañeras.</li>\n<li>Uso funcional de las herramientas digitales.<br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezah-heghqguvf</odePageId>
+  <odeParentPageId>page-mq9tezaf-jrbs0bcfq</odeParentPageId>
+  <pageName>Diana de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diana de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diana de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezah-heghqguvf</odePageId>
+      <odeBlockId>block-1781207218618-rlcu1qabl</odeBlockId>
+      <blockName>Diana de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezah-heghqguvf</odePageId>
+          <odeBlockId>block-1781207218618-rlcu1qabl</odeBlockId>
+          <odeIdeviceId>idevice-1781207218617-d8q43bk1p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Evaluación SdA_El latido de mi ciudad.jpg" title="Diana de evaluación" width="800" height="566" alt="" />
+<figcaption class="figcaption"><span class="author">Andrea Guerrero Cuesta</span>. <span class="title"><em>Diana de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781207218617-d8q43bk1p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Evaluación SdA_El latido de mi ciudad.jpg\" title=\"Diana de evaluación\" width=\"800\" height=\"566\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Andrea Guerrero Cuesta</span>. <span class=\"title\"><em>Diana de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9tezah-heghqguvf</odePageId>
+      <odeBlockId>block-1781040001825-bfi07og4u</odeBlockId>
+      <blockName>¿Qué evalúa?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezah-heghqguvf</odePageId>
+          <odeBlockId>block-1781040001825-bfi07og4u</odeBlockId>
+          <odeIdeviceId>idevice-1781040001823-fh6flsj46</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La percepción que el alumnado tiene sobre sus propios aprendizajes y experiencias durante el proyecto.</p>
+<ul>
+<li>Aspectos incluidos en la diana</li>
+</ul>
+<p>-Educación vial<br />-Conocimiento de la ciudad<br />-Profesiones<br />-Uso de la tablet<br />-Trabajo con compañeros</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781040001823-fh6flsj46","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La percepción que el alumnado tiene sobre sus propios aprendizajes y experiencias durante el proyecto.</p>\n<ul>\n<li>Aspectos incluidos en la diana</li>\n</ul>\n<p>-Educación vial<br />-Conocimiento de la ciudad<br />-Profesiones<br />-Uso de la tablet<br />-Trabajo con compañeros</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9tezai-ztt0pqrq4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9tezai-ztt0pqrq4</odePageId>
+      <odeBlockId>block-1781038878715-y00z3oxhi</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezai-ztt0pqrq4</odePageId>
+          <odeBlockId>block-1781038878715-y00z3oxhi</odeBlockId>
+          <odeIdeviceId>idevice-1781038878714-sj6gwdfix</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #f8cac6;"><strong>Autoría</strong></span></p>
+<p>Andrea Guerrero Cuesta</p>
+<p><span style="color: #f8cac6;"><strong>Descripción</strong></span></p>
+<p>Situación de Aprendizaje "El latido de mi ciudad".</p>
+<p><span style="color: #f8cac6;"><strong>Licencia</strong></span><br /></p>
+<p>Creative Commons Reconocimiento-No Comercial.</p>
+<p><span style="color: #f8cac6;"><strong>Recursos utilizados</strong></span><br /></p>
+<p>ARASAAC</p>
+<p>Canva</p>
+<p>Genially</p>
+<p>Wordwall</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781038878714-sj6gwdfix","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #f8cac6;\"><strong>Autoría</strong></span></p>\n<p>Andrea Guerrero Cuesta</p>\n<p><span style=\"color: #f8cac6;\"><strong>Descripción</strong></span></p>\n<p>Situación de Aprendizaje \"El latido de mi ciudad\".</p>\n<p><span style=\"color: #f8cac6;\"><strong>Licencia</strong></span><br /></p>\n<p>Creative Commons Reconocimiento-No Comercial.</p>\n<p><span style=\"color: #f8cac6;\"><strong>Recursos utilizados</strong></span><br /></p>\n<p>ARASAAC</p>\n<p>Canva</p>\n<p>Genially</p>\n<p>Wordwall</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9tezai-ztt0pqrq4</odePageId>
+      <odeBlockId>block-1781125682941-8wts2j38n</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9tezai-ztt0pqrq4</odePageId>
+          <odeBlockId>block-1781125682941-8wts2j38n</odeBlockId>
+          <odeIdeviceId>idevice-1781125682939-pjptbg4i1</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">El latido de mi ciudad</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
